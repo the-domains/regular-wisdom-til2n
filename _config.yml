@@ -1,0 +1,14 @@
+layout_spectrum: 0.6364351590164006
+typography_spectrum: 0.9389912597835064
+color:
+  brandStrength: 0.986328277271241
+  lightness: 0.7544149062596262
+  saturation: 0.2798704036977142
+  rhythmicContrast: 0.10950833419337869
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: regular wisdom
